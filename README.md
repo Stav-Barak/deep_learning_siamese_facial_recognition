@@ -13,10 +13,8 @@ The assignment focuses on:
 
 ## Project Structure
 
-- `mnist_classification.ipynb` – Jupyter Notebook with the implementation and experiments  
-- `mnist_classification_report.pdf` – Report summarizing design, implementation details, and results  
-
-(update: file names should be adjusted to `siamese_face_recognition.ipynb` and `siamese_face_recognition_report.pdf` if you rename them)  
+- `siamese_face_recognition.ipynb` – Jupyter Notebook with the implementation and experiments  
+- `siamese_face_recognition_report.pdf` – Report summarizing design, implementation details, and results  
 
 ---
 
